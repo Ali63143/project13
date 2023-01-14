@@ -7,7 +7,7 @@ This is a web based application developed for dental related services based webs
 
 **Project Link** - https://red-field-0bc079b00.2.azurestaticapps.net
 
-**project demo video link** - https://youtu.be/Dt9DDS2_zvI
+**project demo video link** - 
 
 ## Azure technologies used for Project
 
